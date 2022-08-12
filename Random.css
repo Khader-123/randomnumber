@@ -1,0 +1,36 @@
+body {
+  background-image: url("https://c8.alamy.com/comp/HAAWE8/abstract-3d-illustration-of-random-numbers-background-HAAWE8.jpg");
+}
+#container {
+  border-radius: 23px;
+  width: 750px;
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+  top: 120px;
+  color: white;
+}
+#container:hover {
+  box-shadow: 0 0 23px black;
+}
+span {
+  color: yellow;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#btn {
+  outline: none;
+  cursor: pointer;
+}
+p {
+  color: white;
+  font-size: 25px;
+  text-shadow: 0 10px gray;
+}
+#inputtext {
+  width: 100px;
+  margin: 25px auto;
+}
+#btn {
+  margin: 25px auto;
+  background-color: gainsboro;
+}
